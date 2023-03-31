@@ -11,7 +11,9 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `Powered by OpenAI dxy
-- [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
+- [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。
+- 请勿对外传播
+`
 
 export type Setting = typeof defaultSetting
 
